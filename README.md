@@ -19,8 +19,8 @@ Atualmente sou uma desenvolvedora de aplicações júnior que, como Bilbo Bolsei
 
 ## 🏹 **Meu Mapa de Contribuições**
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tpaiva700&show_icons=true&theme=algolia)  
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tpaiva700&layout=compact&theme=algolia)
+  ![GitHub Contribution Graph](https://ghchart.rshah.org/tpaiva700) 
+  ![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tpaiva700&theme=github_dark)
 
 
 
