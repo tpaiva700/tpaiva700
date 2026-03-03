@@ -20,6 +20,7 @@ Atualmente sou uma desenvolvedora de aplicações júnior que, como Bilbo Bolsei
 ## 🏹 **Meu Mapa de Contribuições**
 
   ![GitHub Contribution Graph](https://ghchart.rshah.org/tpaiva700) 
+  
   ![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tpaiva700&theme=github_dark)
 
 
