@@ -1,4 +1,4 @@
-# 🧙‍♂️ Olá, viajante da Terra Média! Eu sou a Thaís 💍
+# 🧙‍♂️ Olá, viajante da Terra Média! Eu sou a Thaís
 
 Atualmente sou uma desenvolvedora de aplicações júnior que, como Bilbo Bolseiro, adora embarcar em aventuras inesperadas. Gosto de usar as ferramentas mágicas da tecnologia para criar soluções.🛠️
 
